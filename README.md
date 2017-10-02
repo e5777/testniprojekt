@@ -1,0 +1,2 @@
+# testniprojekt
+Smartninja testni projekt
